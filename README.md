@@ -18,5 +18,5 @@ def f(x):
 
 - Janez NOvak
 - Miško Kranjec
-- Klemen Klemen Klemen
+- Klemen Klemen
 - Simon G.
