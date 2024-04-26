@@ -16,7 +16,7 @@ def f(x):
 
 # Avtorji
 
-- Janez NOvak
+- Janez Novak
 - Miško Kranjec
 - Klemen Klemen
 - Simon G.
