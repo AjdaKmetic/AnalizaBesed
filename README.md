@@ -1,6 +1,6 @@
 # AnalizaBesed
 
-Tukaj bomo analizirali besede v slovenskem jeziku.
+V okviru tega projekta se bomo ukvarjali s preprosto analizo besed.
 
 ## Podnaslov
 
